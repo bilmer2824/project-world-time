@@ -1,3 +1,7 @@
+<img src="https://github.com/islamovsabit/project-world-time/assets/147802380/945d19cb-6940-4d98-9b7b-11d734ad71c3"/>
+
+# Website [Link](https://project-world-time.vercel.app/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
